@@ -1088,7 +1088,8 @@ input[type="checkbox"]:checked+.checkbox-marker::after {
     border: 2px solid #FFD8D8;
     border-radius: 41px;
     padding: 20px 45px;
-    font-size: 60px;
+    padding-right: 0px !important;
+    font-size: 50px;
     width: 100%;
 
 }
