@@ -56,7 +56,9 @@ html {
     font-family: 'Golos', Arial, Helvetica, sans-serif;
     min-width: 375px;
 }
-
+input {
+     font-family: 'Golos';
+}
 .btn {
     display: flex;
     align-items: center;
@@ -1846,7 +1848,7 @@ font-size: 36px;
         gap: 10px;
     }
     .cancel_card__input {
-        font-size: 25px;
+        font-size: 16px;
     }
     .cancel-subscription__card {
         margin-top: 20px;
