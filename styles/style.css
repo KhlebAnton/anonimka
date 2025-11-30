@@ -1843,6 +1843,7 @@ font-size: 36px;
     }
     .cancel-subscription__card__input-item-top {
         gap: 8px;
+        width: 100%;
     }
     .cancel-subscription__card__input-item-bottom {
         gap: 10px;
